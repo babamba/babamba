@@ -27,4 +27,4 @@
 ### Github 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babamba&layout=compact)
-![git status](https://github-readme-stats.vercel.app/api?username=babamba&show_icons=true&hide=contribs,stars&cache_seconds=86400&theme=ayu-mirage)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=babamba&show_icons=true)
