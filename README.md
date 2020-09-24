@@ -3,7 +3,7 @@
 ### Hi there, I'm a Front-end Developer JW 👋
 
 - 🍀 &nbsp; 흥미진진하고 재미있는 일을 하고싶습니다. 🌱 
-- 🎥 &nbsp;  https://www.glance-jw.com
+- 🎥 &nbsp; <a href="https://www.glance-jw.com" target="_blank">Portfolio Web Site</a>
 ---
 
 ### Languages and Tools:
