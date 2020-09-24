@@ -31,5 +31,5 @@
 
 ### Github 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babamba&hide=PHP&layout=compact&theme=ayu-mirage&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babamba&hide=PHP&layout=compact&theme=ayu-mirage&langs_count=7)
 ![git status](https://github-readme-stats.vercel.app/api?username=babamba&show_icons=true&hide=contribs,stars&cache_seconds=86400&theme=ayu-mirage)
