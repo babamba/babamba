@@ -31,5 +31,5 @@
 
 ### Github 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babamba&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babamba&hide=PHP&layout=compact&theme=ayu-mirage&langs_count=7)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=babamba&show_icons=true)
