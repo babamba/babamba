@@ -1,11 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitrvlr%2Fhit-counter&count_bg=%2334AEFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%babamba%2Fhit-counter&count_bg=%2334AEFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi there, I'm a Front-end Developer, and Traveler 👋
+### Hi there, I'm a Front-end Developer JW 👋
 
-- 🍀 &nbsp; 공부하고 배우고 학습하는 자라나는 🌱 
-- 🧸 &nbsp; 함께 재미있는 일을 할 동료를 찾습니다 🙌
-- 🌻 &nbsp; 2020 목표: 다독하고 기록하는 연습 💬
-
+- 🍀 &nbsp; 흥미진진하고 재미있는 일을 하고싶습니다. 🌱 
+- 🎥 &nbsp;  https://www.glance-jw.com/about
 ---
 
 ### Languages and Tools:
